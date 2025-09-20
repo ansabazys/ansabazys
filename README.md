@@ -2,8 +2,8 @@
 
 #### A Full-Stack Developer by day ☀ and a designer by night ☾
 
-Full-Stack Intern at [Devxtra](https://devxtra.vercel.app/)
-Latest app: [Todo](https://ansabazys.github.io/todo/)<br>
+Full-Stack Intern at [Devxtra](https://devxtra.vercel.app/)<br>
+Latest work: [Todo](https://ansabazys.github.io/todo/)<br>
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.figma`, `.ai`
 - 🌍 I'm mostly active in the [LinkedIn](https://www.linkedin.com/in/ansabazys/)<br>
