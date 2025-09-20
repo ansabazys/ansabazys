@@ -1,4 +1,5 @@
 <img align="right"  height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BvZnphNmZxcTZocWhkcDhkbzBkdXZ5ajd5M3p6cmV0Zm1lbzYyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+
 ### Hello there 👋
 
 #### A Full-Stack Developer by day ☀ and a designer by night ☾
