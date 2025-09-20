@@ -3,4 +3,10 @@
 #### A Full-Stack Developer by day ☀ and a designer by night ☾
 
 Full-Stack Intern at [Devxtra](https://devxtra.vercel.app/)
+Latest app: [Todo](https://ansabazys.github.io/todo/)<br>
+
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.figma`, `.ai`
+- 🌍 I'm mostly active in the [LimkedIn](https://www.linkedin.com/in/ansabazys/)<br>
+<!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
+- 💬 `ping` me about **design**, **branding**, **development**, **design thinking**
 
