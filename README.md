@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on a todo app
-- 🌱 I’m currently learning javaScript
-- 💬 Ask me about software development
-- 📫 How to reach me: ansabazys@gmail.com
+#### A Full-Stack Developer by day ☀ and a designer by night ☾
+
+Full-Stack Intern at [Devxtra](https://devxtra.vercel.app/)
 
