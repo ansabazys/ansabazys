@@ -16,4 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_BAR: true
           COMPACT: true
-          BAR_LENGTH: 20
+          BAR_LENGTH: 10
+          
