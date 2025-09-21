@@ -16,9 +16,4 @@ Latest work: [Todo](https://ansabazys.github.io/todo/)<br>
 
 #### ⏳ Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-HTML   12 mins         █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
