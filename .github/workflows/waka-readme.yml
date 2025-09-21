@@ -12,6 +12,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMPACT: true
           SHOW_BAR: true
+          BAR_LENGTH: 20
           
