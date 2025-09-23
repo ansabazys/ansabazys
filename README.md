@@ -18,10 +18,10 @@ Latest work: [Todo](https://ansabazys.github.io/todo/)<br>
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 25 mins    ████████▒░░░░░░░░░░░░░░░░   32.90 %
-JavaScript   1 hr 23 mins    ████████░░░░░░░░░░░░░░░░░   31.99 %
-CSS          52 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-JSON         38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+JavaScript   3 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.08 %
+HTML         2 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   31.60 %
+CSS          52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+JSON         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
 ```
 
 <!--END_SECTION:waka-->
