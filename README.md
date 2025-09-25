@@ -1,4 +1,4 @@
-<img align="right"  height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxOGliM2MxdHdpZXJpMXU3cG9kODI3a29obDIyYnNjY3A2ZXBpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"/>
+<!-- <img align="right"  height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxOGliM2MxdHdpZXJpMXU3cG9kODI3a29obDIyYnNjY3A2ZXBpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"/> -->
 ### Hello there 👋
 
 #### A Full-Stack Developer by day ☀ and a designer by night ☾
