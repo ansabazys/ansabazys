@@ -14,7 +14,7 @@ Latest work: [Todo](https://ansabazys.github.io/todo/)<br>
 - 💬 `ping` me about **design**, **branding**, **development**, **design thinking**
   <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 
-#### ⏳ Weekly development breakdown
+#### 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
