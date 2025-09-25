@@ -8,7 +8,7 @@ Latest work: [Todo](https://ansabazys.github.io/todo/)<br>
 
 
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.figma`, `.ai`
+- ⚙️ I use daily: `js`, `html`, `css`, `figma`
 - 🌍 I'm mostly active in the [LinkedIn](https://www.linkedin.com/in/ansabazys/)<br>
 - 💬 `ping` me about **design**, **branding**, **development**, **design thinking**
   <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
