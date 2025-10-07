@@ -1,8 +1,7 @@
 
-a {
-text-decoration: none;
-box-shadow: none;
-}
+.anchor-link-icon:hover {
+        display: none;
+    }
 
 <!-- <img align="right"  height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxOGliM2MxdHdpZXJpMXU3cG9kODI3a29obDIyYnNjY3A2ZXBpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"/> -->
 ### Hello there 👋, I'm Ansab!
