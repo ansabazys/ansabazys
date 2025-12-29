@@ -10,7 +10,7 @@ Latest work: [Jacstudios](https://jacstudios.duckdns.org/)<br>
 
 
 
-- ⚙️ I use daily: `js`, `html`, `css`, `figma`
+- ⚙️ I use daily: `js`, `ts`, `html`, `css`, `figma`
 - 🌍 I'm mostly active in the [LinkedIn](https://www.linkedin.com/in/ansabazys/)<br>
 - 💬 `ping` me about **design**, **branding**, **development**, **design thinking**
   <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
