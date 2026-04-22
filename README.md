@@ -22,9 +22,7 @@ for freelance work? do reach, [email](https://mail.google.com/mail/?view=cm&fs=1
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   27 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.00 %
-Other        3 mins                ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.88 %
-CSS          0 secs                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
