@@ -5,7 +5,7 @@
 
 #### A Full-Stack Developer by day ☀ and a designer by night ☾
 
-Full-Stack Intern at [Devxtra](https://devxtra.vercel.app/)<br>
+Full-Stack Intern at Thynck<br>
 Latest work: [Jacstudios](https://jacstudios.duckdns.org/)<br>
 
 
