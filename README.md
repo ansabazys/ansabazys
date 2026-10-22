@@ -3,10 +3,13 @@
 <!-- <img align="right"  height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxxOGliM2MxdHdpZXJpMXU3cG9kODI3a29obDIyYnNjY3A2ZXBpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"/> -->
 ### Hello there 👋, I'm Ansab!
 
-#### A Full-Stack Developer by day ☀ and a designer by night ☾
+#### Full-stack developer by work, designer by passion.
 
-Full-Stack Intern at Thynck<br>
-Latest work: [Jacstudios](https://jacstudios.duckdns.org/)<br>
+#### I love turning ideas into meaningful digital experiences, combining thoughtful design, clean code, and well-engineered systems to build products that are both beautiful and functional.
+
+#### Currently working as a Full-Stack Developer at [Thynck](https://www.thynck.in/), exploring new technologies, building side projects, and constantly refining the way I design and develop for the web.
+
+Latest work: [Traqory](https://traqory.vercel.app/)<br>
 
 
 
