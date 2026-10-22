@@ -11,8 +11,8 @@ Latest work: [Traqory](https://traqory.vercel.app/)<br>
 
 
 
-- ⚙️ I use daily: `js`, `ts`, `html`, `css`, `figma`
-- 🌍 I'm mostly active in the [LinkedIn](https://www.linkedin.com/in/ansabazys/)<br>
+- 🎨 Interested in: UI/UX, branding, design systems, and creative development
+- 🌍 Find me on [Instagram](https://www.instagram.com/ansabazys)
 - 💬 `ping` me about **design**, **branding**, **development**, **design thinking**
   <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 
