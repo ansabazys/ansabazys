@@ -11,9 +11,10 @@ Latest work: [Traqory](https://traqory.vercel.app/)<br>
 
 
 
-- 🎨 Interested in: UI/UX, branding, design systems, and creative development
+- 🎨 Interested in ###UI/UX, branding, design systems, and creative development
 - 🌍 Find me on [Instagram](https://www.instagram.com/ansabazys)
-- 💬 `ping` me about **design**, **branding**, **development**, **design thinking**
+- - 💻 Building ###web apps, SaaS products, developer tools
+- 💬 `ping` me about **design**, **development**, **tech**, **creative ideas**
   <!-- - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 
 for freelance work? do reach, [email](https://mail.google.com/mail/?view=cm&fs=1&to=ansabazys@gmail.com&su=Freelance%20Work&body=Hi%20Ansab%2C%0AI'd%20like%20to%20discuss%20a%20freelance%20project.%0A%0AThanks%2C%0A%5BYour%20Name%5D)
