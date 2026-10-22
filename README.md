@@ -6,7 +6,7 @@
 #### Full-stack developer by work, designer by passion.
 
 #### I love turning ideas into meaningful digital experiences, combining thoughtful design, clean code, and well-engineered systems to build products that are both beautiful and functional.
-Full-Stack Developer at [Thynck](https://www.thynck.in/)
+Full-Stack Developer at [Thynck](https://www.thynck.in/)<br>
 Latest work: [Traqory](https://traqory.vercel.app/)<br>
 
 
