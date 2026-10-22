@@ -19,6 +19,10 @@ Latest work: [Traqory](https://traqory.vercel.app/)<br>
 for freelance work? do reach, [email](https://mail.google.com/mail/?view=cm&fs=1&to=ansabazys@gmail.com&su=Freelance%20Work&body=Hi%20Ansab%2C%0AI'd%20like%20to%20discuss%20a%20freelance%20project.%0A%0AThanks%2C%0A%5BYour%20Name%5D)
  :)<br>
 
+ #### Languages and Tools 
+
+`AWS` `Bootstrap` `Expressjs` `Figma` `Firebase` `Framer` `Git` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `Ubuntu` `VS-Code` `Rabbit-MQ` `Docker`
+
 #### 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
 
